@@ -1,0 +1,30 @@
+img {
+	border: 10px outset #66FFCC;
+}
+
+body{
+	text-align: center;
+	font: 13px Courier;
+}
+
+h1 {
+	color: #FF6666;
+}
+
+
+a{
+	color: magenta;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+li {
+	list-style-type: circle;
+}
+
+.reddit{
+	color: purple;
+}
